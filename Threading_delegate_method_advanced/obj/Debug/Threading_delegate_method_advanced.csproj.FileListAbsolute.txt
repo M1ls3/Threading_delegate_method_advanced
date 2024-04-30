@@ -1,0 +1,15 @@
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\bin\Debug\Threading_delegate_method_advanced.exe.config
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\bin\Debug\Threading_delegate_method_advanced.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\bin\Debug\Threading_delegate_method_advanced.pdb
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\MainWindow.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\App.g.cs
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced_MarkupCompile.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced_MarkupCompile.lref
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\MainWindow.baml
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.g.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.exe
+C:\!Dizox\Лаби\ЧНУ\2024 рiк 2 семестр 3 курсу\Розподiленi системи\Lab 4\Threading_delegate_method_advanced\Threading_delegate_method_advanced\obj\Debug\Threading_delegate_method_advanced.pdb
